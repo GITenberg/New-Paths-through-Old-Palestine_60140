@@ -1,11 +1,16 @@
 _repo: New-Paths-through-Old-Palestine_60140
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60140-h/images/cover.jpg
 creator:
   author:
     agent_name: Slattery, Margaret
     gutenberg_agent_id: '6765'
     url: http://www.gutenberg.org/2009/agents/6765
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60140#New-Paths-through-Old-Palestine
 gutenberg_issued: '2019-08-20'
 gutenberg_type: Text
 identifiers:
