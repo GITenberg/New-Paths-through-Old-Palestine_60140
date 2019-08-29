@@ -1,0 +1,23 @@
+_repo: New-Paths-through-Old-Palestine_60140
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Slattery, Margaret
+    gutenberg_agent_id: '6765'
+    url: http://www.gutenberg.org/2009/agents/6765
+description: ''
+gutenberg_issued: '2019-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60140'
+  lccn: '21020902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Palestine -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: New Paths through Old Palestine
+url: http://www.gutenberg.org/ebooks/60140
